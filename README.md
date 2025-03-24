@@ -28,3 +28,10 @@
 - **Business Impact:**  
    - **Sales Forecasting:** Improved prediction accuracy enables better planning and resource allocation.  
    - **Data-Driven Decisions:** Retailers can enhance promotions, pricing, and store operations based on sales insights.
+
+![Screenshot (36)](https://github.com/user-attachments/assets/f311fe1a-ffc9-4bd3-aff5-8fed22fb096c)
+![Screenshot (37)](https://github.com/user-attachments/assets/f3b457a9-2e59-47d2-9fd2-532b62f25ba6)
+![Screenshot (38)](https://github.com/user-attachments/assets/f1302a35-395a-4d7b-aa95-07819df612d9)
+![Screenshot (42)](https://github.com/user-attachments/assets/2889e020-f769-4464-a380-3a4548d1efb1)
+![Screenshot (44)](https://github.com/user-attachments/assets/4b21cc6a-21ac-489d-853b-22f3e57d16b2)
+
